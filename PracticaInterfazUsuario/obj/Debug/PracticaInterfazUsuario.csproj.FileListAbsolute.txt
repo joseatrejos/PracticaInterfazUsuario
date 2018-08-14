@@ -1,0 +1,15 @@
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\bin\Debug\PracticaInterfazUsuario.exe.config
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\bin\Debug\PracticaInterfazUsuario.exe
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\bin\Debug\PracticaInterfazUsuario.pdb
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\App.g.cs
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario_MarkupCompile.cache
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario_MarkupCompile.lref
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\MainWindow.baml
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario.g.resources
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario.Properties.Resources.resources
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario.exe
+C:\Users\alumno\Desktop\PracticaInterfazUsuario\PracticaInterfazUsuario\obj\Debug\PracticaInterfazUsuario.pdb
